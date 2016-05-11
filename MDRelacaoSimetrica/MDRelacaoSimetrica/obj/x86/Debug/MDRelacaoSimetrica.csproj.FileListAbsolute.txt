@@ -1,0 +1,7 @@
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\obj\x86\Debug\MDRelacaoSimetrica.Properties.Resources.resources
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\obj\x86\Debug\MDRelacaoSimetrica.frmHomeScreen.resources
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\obj\x86\Debug\MDRelacaoSimetrica.csproj.GenerateResource.Cache
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\bin\Debug\MDRelacaoSimetrica.exe
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\bin\Debug\MDRelacaoSimetrica.pdb
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\obj\x86\Debug\MDRelacaoSimetrica.exe
+D:\genilson-ferreira\documents\faculdade\mdiscreta\trabalho1\REP-MDiscreta\MDRelacaoSimetrica\MDRelacaoSimetrica\obj\x86\Debug\MDRelacaoSimetrica.pdb
